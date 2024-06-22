@@ -1,0 +1,28 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol{
+    display: inline-block;
+    background-color: lightsalmon;
+    font-size: larger;
+    border-radius: 30px;
+    
+}
+li{
+    color: aliceblue;
+}
+
+ol li{
+    padding: 10px;
+}
+li:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover{
+    color: black;
+}
